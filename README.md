@@ -13,6 +13,8 @@ O projeto foi construido a partir das tecnologias HTML e CSS
 
 
 
+
+
 ## 💻 Projeto
 
 O projeto se consinste em um site de login, para acesso a plataforma de um possivel curso.
@@ -20,11 +22,15 @@ O projeto se consinste em um site de login, para acesso a plataforma de um possi
   
 
 
+
+
 ## ✒️ Autores
 
 Projeto realizado por Luis Eduardo Leme Silva
 
 ⌨️ com dedicação por [Luis Eduardo Leme Silva](https://gist.github.com/Luislemesilva) 😎
+
+
 
 
 
